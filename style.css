@@ -5,7 +5,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 html,body {
-    background: #1abc9c;
+    background: whitesmoke;
     overflow: hidden;
 }
 ::selection {
@@ -24,7 +24,7 @@ html,body {
 }
 .wap .title {
     height: 90px;
-    background: #16a085;
+    background: #0669da;
     border-radius: 5px 5px 0 0;
     color: white;
     font-size: 30px;
@@ -52,7 +52,7 @@ html,body {
     transition: all 0.3s ease;
 }
 form .row input:focus {
-    border-color: #16a085;
+    border-color: #0669da;
     box-shadow: inset 0px 0px 2px 2px rgba(26,188,156,0.25);
 }
 form .row input::placeholder {
@@ -64,8 +64,8 @@ form .row input::placeholder {
     height: 100%;
     color: #fff;
     font-size: 18px;
-    background: #16a085;
-    border: 1px solid #16a085;
+    background: #0669da;
+    border: 1px solid #0669da;
     border-radius: 5px 0 0 5px;
     display: flex;
     align-items: center;
@@ -75,7 +75,7 @@ form .row input::placeholder {
     margin: -8px 0 20px 0;
 }
 .wap form .pass a {
-    color: #16a085;
+    color: #0669da;
     font-size: 17px;
     text-decoration: none;
 
@@ -88,12 +88,12 @@ form .row input::placeholder {
     font-size: 20px;
     font-weight: 500;
     padding-left: 0px;
-    background: #16a085;
-    border: 1px solid #16a085;
+    background: #0669da;
+    border: 1px solid #0669da;
     cursor: pointer;
 }
 form .button input:hover {
-    background: #12876f;
+    background: #0b24ff;
 }
 .wap form .singup {
     text-align: center;
@@ -101,7 +101,7 @@ form .button input:hover {
     font-size: 17px;
 }
 .wap form .singup {
-    color: #16a085;
+    color: #0669da;
     text-decoration: none;
 }
 form .singup a:hover {
